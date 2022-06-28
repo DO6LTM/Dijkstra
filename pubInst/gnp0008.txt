@@ -1,0 +1,10 @@
+# Undirected GNP random graph, edge prob. 0.500, seed 4
+n = 8
+0 : 3w43 7w64
+1 : 5w12 6w74
+2 : 
+3 : 0w43 4w13 5w83 7w27
+4 : 3w13 5w18 6w80 7w39
+5 : 1w12 3w83 4w18 7w16
+6 : 1w74 4w80
+7 : 0w64 3w27 4w39 5w16

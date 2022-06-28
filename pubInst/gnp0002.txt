@@ -1,0 +1,4 @@
+# Undirected GNP random graph, edge prob. 0.500, seed 2
+n = 2
+0 : 1w78
+1 : 0w78
